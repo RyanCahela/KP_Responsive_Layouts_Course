@@ -1,0 +1,31 @@
+.hero {
+  padding-block: 5rem 9rem;
+}
+
+.hero__text {
+  width: 100%;
+  max-width: 700px;
+}
+
+.hero__copy {
+  padding-top: 1.5em;
+  padding-bottom: 3em;
+}
+
+.hero__link {
+  display: inline-block;
+  padding-inline: 2em;
+  padding-block: 1em;
+  border-radius: 1000px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.blerb {
+  text-align: center;
+}
+
+.blerb__copy {
+  padding-block-start: 1em;
+}

@@ -1,0 +1,23 @@
+:root {
+  /*********************
+  Color
+  *********************/
+  --color-primary-dark: #23424a;
+  --color-primary-light: #136c72;
+  --color-accent-dark: #87629a;
+  --color-accent-light: #38cfd9;
+  --color-white: #ffffff;
+  --color-black: #3a3a3a;
+
+  /*********************
+  Typography
+  *********************/
+  --ff-sans-serif: "Roboto", sans-serif;
+  --fs-400: 1rem;
+  --fs-500: 1.3125rem; /* 21px */
+  --fs-600: 2rem;
+  --fs-700: 2.25rem; /* 36px */
+  --fs-800: 3rem; /* 48px */
+  --fw-regular: 400;
+  --fw-black: 900;
+}
